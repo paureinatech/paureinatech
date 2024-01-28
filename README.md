@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, soy Paula 👋
 
-<!--
-**paureinatech/paureinatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí 📖
+👨‍💻 Desarrolladora especializada en ciencia de datos y apasionada por la tecnología.
 
-Here are some ideas to get you started:
+🎓 Ingeniera Informática por la Universidad de Zaragoza.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 🛠️
+👨‍💻 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## Contacto 📬
+- 📧 Email: paulaiglesiasreina@gmail.com
+
+---
