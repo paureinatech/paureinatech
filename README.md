@@ -10,5 +10,6 @@
 
 ## Contacto 📬
 - 📧 Email: paulaiglesiasreina@gmail.com
+- TikTok: https://www.tiktok.com/@paureinatech
 
 ---
